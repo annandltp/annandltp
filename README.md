@@ -60,15 +60,7 @@ Gen Z creator. Driven by **minimalist precision**. Complexity fails; simplicity 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atpshowcase&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=9f7aea&text_color=ffffff&bg_color=1f222e" alt="atpshowcase Top Languages" />
-  <h4 align="center">Portfolio Showcase Account: atpshowcase</h4>
+  <a href="https://github.com/atpshowcase"> ATP Showcase </a>
 </p>
 
 ---
-
-**Catatan:**
-
-1.  Saya menggabungkan *GitHub Stats* dan *Top Languages* akun utama ke dalam satu `<p align="center">` agar tampil bersebelahan.
-2.  Saya membuat `<p align="center">` baru untuk *Top Languages* dari akun **`atpshowcase`** agar tampil jelas sebagai akun tambahan, dan menambahkan `<h4>` label untuk kejelasan.
-3.  Saya menambahkan warna tema (`tokyonight`) untuk konsistensi visual.
-
-Apakah tata letak untuk akun kedua ini sudah cukup minimalis dan jelas?
