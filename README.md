@@ -60,7 +60,8 @@ Gen Z creator. Driven by **minimalist precision**. Complexity fails; simplicity 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atpshowcase&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=9f7aea&text_color=ffffff&bg_color=1f222e" alt="atpshowcase Top Languages" />
-  <a href="https://github.com/atpshowcase"> ATP Showcase </a>
+  
+  <h4 align="center"><a href="https://github.com/atpshowcase"> ATP Showcase </a></h4>
 </p>
 
 ---
